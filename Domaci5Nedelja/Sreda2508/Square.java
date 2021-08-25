@@ -1,7 +1,7 @@
 package Sreda1;
 
 
-public class Square extends Shape{
+public class Square extends Rectangle{
     private double a;
     private double b;
 

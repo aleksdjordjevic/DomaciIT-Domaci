@@ -15,6 +15,15 @@ public class Rectangle extends Shape{
         this.b = b;
     }
 
+    public Rectangle(String name, double a) {
+        super(name);
+        this.a = a;
+    }
+
+    public Rectangle(String name) {
+        super(name);
+    }
+
     public double getA() {
         return a;
     }
@@ -22,6 +31,8 @@ public class Rectangle extends Shape{
     public double getB() {
         return b;
     }
+
+
     /*Methods*/
 
     @Override
