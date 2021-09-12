@@ -23,5 +23,5 @@ FROM EMPLOYEES
 ORDER BY SALARY  DESC 
 LIMIT 5)
 
-
+--RESENJE TRECEG-Sortirati drzave po ukupnoj zaradi njihovih drzavljana opadajuce
 
